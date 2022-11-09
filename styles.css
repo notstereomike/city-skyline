@@ -297,7 +297,7 @@
       );
   }
   
-  @media (max-width: 300px) {
+  @media (orientation:portrait) {
     :root {
       --building-color1: #000;
       --building-color2: #000;
